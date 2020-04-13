@@ -1,4 +1,4 @@
-![Banner El Arte mas allá del Humano](banner.png)
+![Banner El Arte mas allá del Humano](banner1.png)
 
 # Parking-Uis.
 
